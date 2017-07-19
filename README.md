@@ -5,13 +5,13 @@
 - 武将列表宣传页
 ![武将列表宣传页](https://ws4.sinaimg.cn/large/006tNc79gy1fhpgux72spj30sg0lcjtm.jpg)
 - 铁匠铺打造装备宣传页
-![铁匠铺打造装备宣传页](https://ws1.sinaimg.cn/large/006tNc79gy1fhpjhrfgflj30sg0lcjtn.jpg)
+![铁匠铺打造装备宣传页](https://raw.githubusercontent.com/DoooReyn/WorksShow/master/5.png)
 - 秘境试炼（副本）宣传页
 ![秘境试炼（副本）宣传页](https://ws2.sinaimg.cn/large/006tNc79gy1fhpgvsmfo5j30sg0lcju2.jpg)
 - 敌方阵容预览宣传页
 ![敌方阵容预览宣传页](https://ws3.sinaimg.cn/large/006tNc79gy1fhpgvfom2rj30sg0lcju0.jpg)
 - 战斗界面
-![战斗界面](https://ws3.sinaimg.cn/large/006tNc79gy1fhpjgofyvej30oy0e41b5.jpg)
+![战斗界面](https://raw.githubusercontent.com/DoooReyn/WorksShow/master/1.png)
 
 ## 元气偶像季
 - 通讯录列表
