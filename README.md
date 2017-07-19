@@ -5,7 +5,7 @@
 - 武将列表宣传页
 ![武将列表宣传页](https://ws4.sinaimg.cn/large/006tNc79gy1fhpgux72spj30sg0lcjtm.jpg)
 - 铁匠铺打造装备宣传页
-![铁匠铺打造装备宣传页](https://raw.githubusercontent.com/DoooReyn/WorksShow/master/5.png)
+![铁匠铺打造装备宣传页](https://raw.githubusercontent.com/DoooReyn/WorksShow/master/5.jpg)
 - 秘境试炼（副本）宣传页
 ![秘境试炼（副本）宣传页](https://ws2.sinaimg.cn/large/006tNc79gy1fhpgvsmfo5j30sg0lcju2.jpg)
 - 敌方阵容预览宣传页
